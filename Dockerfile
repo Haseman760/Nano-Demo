@@ -6,6 +6,4 @@ COPY nginx-1.18.0 /nginx
 
 EXPOSE 80/tcp
 
-RUN /nginx/nginx.exe
-
-
+RUN nginx.exe
