@@ -1,1 +1,0 @@
-2021/03/18 14:35:42 [error] 52720#48624: *1 CreateFile() "F:\Github\Nano-Demo\nginx-1.18.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
