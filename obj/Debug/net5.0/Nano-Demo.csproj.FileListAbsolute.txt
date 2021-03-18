@@ -1,0 +1,5 @@
+F:\Github\Nano-Demo\obj\Debug\net5.0\Nano-Demo.csprojAssemblyReference.cache
+F:\Github\Nano-Demo\obj\Debug\net5.0\Nano-Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\Nano-Demo\obj\Debug\net5.0\Nano-Demo.AssemblyInfoInputs.cache
+F:\Github\Nano-Demo\obj\Debug\net5.0\Nano-Demo.AssemblyInfo.cs
+F:\Github\Nano-Demo\obj\Debug\net5.0\Nano-Demo.csproj.CoreCompileInputs.cache

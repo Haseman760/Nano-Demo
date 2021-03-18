@@ -1,9 +1,9 @@
 FROM mcr.microsoft.com/windows/servercore:20H2 AS build-env
 
-WORKDIR /nginx
+WORKDIR /app
 
-COPY nginx-1.18.0 /nginx
+COPY app/bin/Debug\net5.0 /app
 
-EXPOSE 80/tcp
+#EXPOSE 80/tcp
 
-RUN nginx.exe
+RUN app.exe

@@ -1,0 +1,16 @@
+F:\Github\Nano-Demo\app\bin\Debug\net5.0\app.exe
+F:\Github\Nano-Demo\app\bin\Debug\net5.0\app.deps.json
+F:\Github\Nano-Demo\app\bin\Debug\net5.0\app.runtimeconfig.json
+F:\Github\Nano-Demo\app\bin\Debug\net5.0\app.runtimeconfig.dev.json
+F:\Github\Nano-Demo\app\bin\Debug\net5.0\app.dll
+F:\Github\Nano-Demo\app\bin\Debug\net5.0\ref\app.dll
+F:\Github\Nano-Demo\app\bin\Debug\net5.0\app.pdb
+F:\Github\Nano-Demo\app\obj\Debug\net5.0\app.csprojAssemblyReference.cache
+F:\Github\Nano-Demo\app\obj\Debug\net5.0\app.GeneratedMSBuildEditorConfig.editorconfig
+F:\Github\Nano-Demo\app\obj\Debug\net5.0\app.AssemblyInfoInputs.cache
+F:\Github\Nano-Demo\app\obj\Debug\net5.0\app.AssemblyInfo.cs
+F:\Github\Nano-Demo\app\obj\Debug\net5.0\app.csproj.CoreCompileInputs.cache
+F:\Github\Nano-Demo\app\obj\Debug\net5.0\app.dll
+F:\Github\Nano-Demo\app\obj\Debug\net5.0\ref\app.dll
+F:\Github\Nano-Demo\app\obj\Debug\net5.0\app.pdb
+F:\Github\Nano-Demo\app\obj\Debug\net5.0\app.genruntimeconfig.cache
