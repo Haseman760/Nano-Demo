@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/mcr.microsoft.com/dotnet/sdk:5.0 AS build-env
+FROM mcr.microsoft.com/mcr.microsoft.com/dotnet/sdk:5.0-nanoserver-2004 AS build-env
 
 WORKDIR /app
 
