@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/windows/nanoserver:20H2 AS build-env
+FROM mcr.microsoft.com/mcr.microsoft.com/dotnet/sdk:5.0:20H2 AS build-env
 
 WORKDIR /app
 
