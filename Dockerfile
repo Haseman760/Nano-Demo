@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/mcr.microsoft.com/dotnet/runtime:latest AS build-env
+FROM mcr.microsoft.com/dotnet/runtime:latest AS build-env
 
 WORKDIR /app
 
